@@ -23,3 +23,27 @@ This is an interactive Power BI dashboard built on the Amazon Prime Video datase
 3. Explore using slicers and charts
 
 > Note: Ratings represent **age certifications** (7+, 13+, 18+), not IMDb scores.
+
+## ⭐ Support
+
+If you found this portfolio helpful, consider giving this repository a ⭐.
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+  🌐 <a href="https://akhileshyadav-portfolio-theta.vercel.app" target="_blank">Portfolio</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/linkedin.svg" width="20" align="center"/>
+  <a href="https://www.linkedin.com/in/akhilesh-yadav88/" target="_blank">LinkedIn</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/github-dark.svg" width="20" align="center"/>
+  <a href="https://github.com/akhileshyadav8" target="_blank">GitHub</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/gmail-dark.svg" width="20" align="center"/>
+  <a href="mailto:yadavakhil766@gmail.com">Gmail</a>
+</p>
